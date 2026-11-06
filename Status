@@ -1,0 +1,25 @@
+{
+  "status": "safe",
+  "version": "1.2.0",
+  "is_detected": false,
+  "message": "All systems operational. Safe to inject.",
+  "changelog": [
+    {
+      "version": "1.2.0",
+      "date": "2026-11-06",
+      "changes": [
+        "Added new aimbot smoothing",
+        "Fixed ESP rendering issues",
+        "Improved performance"
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "date": "2026-10-20",
+      "changes": [
+        "Added triggerbot",
+        "Bug fixes"
+      ]
+    }
+  ]
+}
