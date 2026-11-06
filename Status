@@ -1,7 +1,7 @@
 {
-  "status": "safe",
+  "status": "unsafe",
   "version": "1.2.0",
-  "is_detected": false,
+  "is_detected": true,
   "message": "All systems operational. Safe to inject.",
   "changelog": [
     {
